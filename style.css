@@ -140,6 +140,11 @@ nav a:hover {
     background: #e64a19;
 }
 
+.stock {
+    font-weight: 600;
+    color: #e64a19;
+    margin-bottom: 10px;
+}
 .contact-section {
     min-height: 70vh;
     padding: 80px 20px;

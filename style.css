@@ -209,7 +209,7 @@ nav a:hover {
 .old-price {
     text-decoration: line-through;
     color: #888;
-    margin-right: 8px;
+    margin-right: 2px;
     font-size: 0.95rem;
 }
 @media (max-width: 768px) {
@@ -259,6 +259,7 @@ nav a:hover {
     .contact-info p {
         font-size: 1rem;
     }
+     
 }
 
 @media (max-width: 480px) {
@@ -274,4 +275,5 @@ nav a:hover {
     .product-card img {
         height: 150px;
     }
+    
 }
